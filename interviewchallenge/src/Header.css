@@ -1,0 +1,13 @@
+.logo {
+    max-width: 40px;
+    height: auto;
+    /* border: 5px solid red;   */
+    float: left;   
+    margin-left: 2%;
+}
+
+.searchBar{
+    float: right;
+    margin-right:2%;
+
+}

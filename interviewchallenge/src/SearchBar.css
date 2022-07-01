@@ -1,0 +1,12 @@
+.searchBar{
+  position:relative;
+  border-radius: 10px;
+  height: 43px
+}
+
+::placeholder {
+  font-size: 150%;
+  font-family: sourceSerifPro;
+  padding-left: 10px;
+  margin-bottom: 100px;
+}
