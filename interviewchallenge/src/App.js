@@ -9,8 +9,8 @@ function App() {
       <header className="App-header">
         <HeaderComp />
       </header>
-      <div><Sidebar /></div>
-      <div><Canvas /></div>
+      <Sidebar />
+      <Canvas />
     </div>
   );
 }
