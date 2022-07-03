@@ -15,16 +15,18 @@ function DetailedView(props) {
       } 
     
     const handleClick = () => {
+        // setInterval()
         props.setView('canvasGrid')
     }
+    console.log(props, 'hello')
 
     return (
         <div className="detailedView">
 
-            <div className="detailLargeSwatch">
+            <div className="detailLargeSwatch" style={{backgroundColor: props.color}}>
                 <div className="detailLargeSwatchTitleBar">
                     <div className="detailLargeSwatchTitle">
-                        <p>#cffff1</p>
+                        <p>{props.color}</p>
                     </div>
                 </div>
             </div>

@@ -3,13 +3,13 @@ function Swatch(props) {
   let titleBarClass = (props.view === 'canvasDetailed') ? 'detailSwatchTitleBar' : 'gridSwatchTitleBar'
   let titleClass = (props.view === 'canvasDetailed') ? 'detailSwatchTitle' : 'gridSwatchTitle'
 
-  const handleClick = () => {
-    if (props.view === 'canvasDetailed') props.setView('canvasGrid')
-    else props.setView('canvasDetailed')
+  const handleClick = (index) => {
+    props.setDetailedIndex(index)
+    props.setView('canvasDetailed')
   }
 
   return (
-    <div className={containerClass} onClick={handleClick} style={{backgroundColor: props.color}}>
+    <div className={containerClass} onClick={()=>handleClick(props.swatchColorIndex)} style={{backgroundColor: props.color}}>
       <div className={titleBarClass}>
         <div className={titleClass}>
           <p>{props.color}</p>
