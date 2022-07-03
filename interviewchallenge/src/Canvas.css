@@ -10,7 +10,6 @@
     width: 160px;
     border-radius: 8px;
     box-shadow: 0px 0px 3px lightgray;
-    background-color: blueviolet;
 }
 
 .gridSwatchTitleBar {
@@ -29,6 +28,16 @@
     font-size: 18px;
     top: 10px;
     left: 10px
+}
+
+.pageNums {
+        display: grid;
+        grid-template-columns: 30px 30px 30px 30px 30px 30px 30px 30px;
+        grid-gap: 1px;
+        position: relative;
+        top: 20px;
+        left: 263px;
+        font-size: 18px;
 }
 
 .detailedView {

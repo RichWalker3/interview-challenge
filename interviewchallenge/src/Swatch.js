@@ -9,10 +9,10 @@ function Swatch(props) {
   }
 
   return (
-    <div className={containerClass} onClick={handleClick}>
+    <div className={containerClass} onClick={handleClick} style={{backgroundColor: props.color}}>
       <div className={titleBarClass}>
         <div className={titleClass}>
-          <p>#cffff1</p>
+          <p>{props.color}</p>
         </div>
       </div>
     </div>
