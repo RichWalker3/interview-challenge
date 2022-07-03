@@ -1,4 +1,3 @@
-import './Sidebar.css';
 
 function Sidebar() {
   const randomButtonStyle ={
@@ -22,7 +21,7 @@ function Sidebar() {
 
   return (
       <div className="sideBar">
-        <button type="button" clasName="randomButton" style={randomButtonStyle}><b>Random Color</b></button>
+        <button type="button" className="randomButton" style={randomButtonStyle}><strong>Random Color</strong></button>
         <div className="sideBarList" style={sideBarListStyle}>
             <a href="#Red" className ='sbText' style={sbListItemStyle}>Red</a>
             <a href="#Orange" className ='sbText' style={sbListItemStyle}>Orange</a>

@@ -1,0 +1,105 @@
+.canvasGrid {
+    display: grid;
+    grid-template-columns: 165px 165px 165px 165px;
+    grid-gap: 40px;
+    height: 620px
+}
+
+.gridItem {
+    height: 190px;
+    width: 160px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px lightgray;
+    background-color: blueviolet;
+}
+
+.gridSwatchTitleBar {
+    position: relative;
+    top: 150px;
+    height: 40px;
+    background-color: #fdfdfd;
+    box-shadow: 0px 0px 5px lightgrey;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: left;
+}
+
+.gridSwatchTitle {
+    position: relative;
+    font-size: 18px;
+    top: 10px;
+    left: 10px
+}
+
+.detailedView {
+
+    width: 780px;
+    height:780px;
+}
+
+/*  */
+/*  */
+.detailLargeSwatch {
+    height: 530px;
+    width: 780px;
+    background-color: purple;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px lightgray
+
+}
+
+.detailLargeSwatchTitleBar {
+    position: relative;
+    top: 380px;
+    height: 110px;
+    background-color: #fdfdfd;
+    box-shadow: 0px 0px 5px lightgrey;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: left;
+}
+
+.detailLargeSwatchTitle {
+    position: relative;
+    font-size: 18px;
+    top: 40px;
+    left: 29px;
+    font-size: 2.5em
+}
+
+.detailSwatchRow {
+    position:relative;
+    top:30px;
+    display: grid;
+    grid-template-columns: 136px 136px 136px 136px 136px;
+    grid-gap: 26px;
+    height: 160px;
+}
+
+.detailGridItem {
+    height: 140px;
+    width: 135px;
+    background-color: rgba(128, 0, 128, 0.929);
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px lightgray;
+}
+
+.detailSwatchTitleBar{
+    background-color: white;
+    position: relative;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    top: 75px;
+    height:45px;
+    box-shadow: 0px 0px 3px lightgray;
+    font-size: 20px;
+}
+
+.detailSwatchTitle{
+    position: relative;
+    text-align: left;
+    top: 12px;
+    left: 15px;
+    
+}
