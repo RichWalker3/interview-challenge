@@ -1,5 +1,5 @@
 import Swatch from './Swatch.js'
-
+import colors from './colors.json'
 function DetailedView(props) {
 
     const clearButtonStyle ={
@@ -18,7 +18,12 @@ function DetailedView(props) {
         // setInterval()
         props.setView('canvasGrid')
     }
-    console.log(props, 'hello')
+    const detailSwatches = []
+    
+    for (let i = 1; i < 6; i += 1) {
+        const idx = (props.colorIndex > colors.length - 7) ? colors.length - 7 + i  : props.colorIndex + i
+        detailSwatches.push(<Swatch swatchNum={{i}} view={props.view} swatchColorIndex={idx} color={colors[idx]['hex']} setDetailedIndex={props.setDetailedIndex} key={i}/>)
+    }
 
     return (
         <div className="detailedView">
@@ -32,15 +37,11 @@ function DetailedView(props) {
             </div>
 
             <div className="detailSwatchRow">
-                <Swatch view={props.view}/>
-                <Swatch view={props.view}/>
-                <Swatch view={props.view}/>
-                <Swatch view={props.view}/>
-                <Swatch view={props.view}/>
+              {detailSwatches}
             </div>
 
             <div style={{backgrounColor:'red'}}>
-            <button type="button" classname="clearButton" style={clearButtonStyle} onClick={handleClick}><strong>Clear</strong></button>
+            <button type="button" className="clearButton" style={clearButtonStyle} onClick={handleClick}><strong>Clear</strong></button>
             </div>
         </div>
     );

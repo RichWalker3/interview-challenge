@@ -1,3462 +1,667 @@
 [
     {
-      "id": 1,
-      "hexcode": "#5d8aa8"
-    },
-    {
-      "id": 2,
-      "hexcode": "#00308f"
-    },
-    {
-      "id": 3,
-      "hexcode": "#72a0c1"
-    },
-    {
-      "id": 4,
-      "hexcode": "#a32638"
-    },
-    {
-      "id": 5,
-      "hexcode": "#f0f8ff"
-    },
-    {
-      "id": 6,
-      "hexcode": "#e32636"
-    },
-    {
-      "id": 7,
-      "hexcode": "#c46210"
-    },
-    {
-      "id": 8,
-      "hexcode": "#efdecd"
-    },
-    {
-      "id": 9,
-      "hexcode": "#e52b50"
-    },
-    {
-      "id": 10,
-      "hexcode": "#ffbf00"
-    },
-    {
-      "id": 11,
-      "hexcode": "#ff7e00"
-    },
-    {
-      "id": 12,
-      "hexcode": "#ff033e"
-    },
-    {
-      "id": 13,
-      "hexcode": "#96c"
-    },
-    {
-      "id": 14,
-      "hexcode": "#a4c639"
-    },
-    {
-      "id": 15,
-      "hexcode": "#f2f3f4"
-    },
-    {
-      "id": 16,
-      "hexcode": "#cd9575"
-    },
-    {
-      "id": 17,
-      "hexcode": "#915c83"
-    },
-    {
-      "id": 18,
-      "hexcode": "#841b2d"
-    },
-    {
-      "id": 19,
-      "hexcode": "#faebd7"
-    },
-    {
-      "id": 20,
-      "hexcode": "#008000"
-    },
-    {
-      "id": 21,
-      "hexcode": "#8db600"
-    },
-    {
-      "id": 22,
-      "hexcode": "#fbceb1"
-    },
-    {
-      "id": 23,
-      "hexcode": "#0ff"
-    },
-    {
-      "id": 24,
-      "hexcode": "#7fffd4"
-    },
-    {
-      "id": 25,
-      "hexcode": "#4b5320"
-    },
-    {
-      "id": 26,
-      "hexcode": "#3b444b"
-    },
-    {
-      "id": 27,
-      "hexcode": "#e9d66b"
-    },
-    {
-      "id": 28,
-      "hexcode": "#b2beb5"
-    },
-    {
-      "id": 29,
-      "hexcode": "#87a96b"
-    },
-    {
-      "id": 30,
-      "hexcode": "#f96"
-    },
-    {
-      "id": 31,
-      "hexcode": "#a52a2a"
-    },
-    {
-      "id": 32,
-      "hexcode": "#fdee00"
-    },
-    {
-      "id": 33,
-      "hexcode": "#6e7f80"
-    },
-    {
-      "id": 34,
-      "hexcode": "#568203"
-    },
-    {
-      "id": 35,
-      "hexcode": "#007fff"
-    },
-    {
-      "id": 36,
-      "hexcode": "#f0ffff"
-    },
-    {
-      "id": 37,
-      "hexcode": "#89cff0"
-    },
-    {
-      "id": 38,
-      "hexcode": "#a1caf1"
-    },
-    {
-      "id": 39,
-      "hexcode": "#f4c2c2"
-    },
-    {
-      "id": 40,
-      "hexcode": "#21abcd"
-    },
-    {
-      "id": 41,
-      "hexcode": "#fae7b5"
-    },
-    {
-      "id": 42,
-      "hexcode": "#ffe135"
-    },
-    {
-      "id": 43,
-      "hexcode": "#7c0a02"
-    },
-    {
-      "id": 44,
-      "hexcode": "#848482"
-    },
-    {
-      "id": 45,
-      "hexcode": "#98777b"
-    },
-    {
-      "id": 46,
-      "hexcode": "#bcd4e6"
-    },
-    {
-      "id": 47,
-      "hexcode": "#9f8170"
-    },
-    {
-      "id": 48,
-      "hexcode": "#f5f5dc"
-    },
-    {
-      "id": 49,
-      "hexcode": "#9c2542"
-    },
-    {
-      "id": 50,
-      "hexcode": "#ffe4c4"
-    },
-    {
-      "id": 51,
-      "hexcode": "#3d2b1f"
-    },
-    {
-      "id": 52,
-      "hexcode": "#fe6f5e"
-    },
-    {
-      "id": 53,
-      "hexcode": "#bf4f51"
-    },
-    {
-      "id": 54,
-      "hexcode": "#000"
-    },
-    {
-      "id": 55,
-      "hexcode": "#3d0c02"
-    },
-    {
-      "id": 56,
-      "hexcode": "#253529"
-    },
-    {
-      "id": 57,
-      "hexcode": "#3b3c36"
-    },
-    {
-      "id": 58,
-      "hexcode": "#ffebcd"
-    },
-    {
-      "id": 59,
-      "hexcode": "#a57164"
-    },
-    {
-      "id": 60,
-      "hexcode": "#318ce7"
-    },
-    {
-      "id": 61,
-      "hexcode": "#ace5ee"
-    },
-    {
-      "id": 62,
-      "hexcode": "#faf0be"
-    },
-    {
-      "id": 63,
-      "hexcode": "#00f"
-    },
-    {
-      "id": 64,
-      "hexcode": "#a2a2d0"
-    },
-    {
-      "id": 65,
-      "hexcode": "#1f75fe"
-    },
-    {
-      "id": 66,
-      "hexcode": "#69c"
-    },
-    {
-      "id": 67,
-      "hexcode": "#0d98ba"
-    },
-    {
-      "id": 68,
-      "hexcode": "#0093af"
-    },
-    {
-      "id": 69,
-      "hexcode": "#0087bd"
-    },
-    {
-      "id": 70,
-      "hexcode": "#339"
-    },
-    {
-      "id": 71,
-      "hexcode": "#0247fe"
-    },
-    {
-      "id": 72,
-      "hexcode": "#126180"
-    },
-    {
-      "id": 73,
-      "hexcode": "#8a2be2"
-    },
-    {
-      "id": 74,
-      "hexcode": "#de5d83"
-    },
-    {
-      "id": 75,
-      "hexcode": "#79443b"
-    },
-    {
-      "id": 76,
-      "hexcode": "#0095b6"
-    },
-    {
-      "id": 77,
-      "hexcode": "#e3dac9"
-    },
-    {
-      "id": 78,
-      "hexcode": "#c00"
-    },
-    {
-      "id": 79,
-      "hexcode": "#006a4e"
-    },
-    {
-      "id": 80,
-      "hexcode": "#873260"
-    },
-    {
-      "id": 81,
-      "hexcode": "#0070ff"
-    },
-    {
-      "id": 82,
-      "hexcode": "#b5a642"
-    },
-    {
-      "id": 83,
-      "hexcode": "#cb4154"
-    },
-    {
-      "id": 84,
-      "hexcode": "#1dacd6"
-    },
-    {
-      "id": 85,
-      "hexcode": "#6f0"
-    },
-    {
-      "id": 86,
-      "hexcode": "#bf94e4"
-    },
-    {
-      "id": 87,
-      "hexcode": "#c32148"
-    },
-    {
-      "id": 88,
-      "hexcode": "#ff007f"
-    },
-    {
-      "id": 89,
-      "hexcode": "#08e8de"
-    },
-    {
-      "id": 90,
-      "hexcode": "#d19fe8"
-    },
-    {
-      "id": 91,
-      "hexcode": "#f4bbff"
-    },
-    {
-      "id": 92,
-      "hexcode": "#ff55a3"
-    },
-    {
-      "id": 93,
-      "hexcode": "#fb607f"
-    },
-    {
-      "id": 94,
-      "hexcode": "#004225"
-    },
-    {
-      "id": 95,
-      "hexcode": "#cd7f32"
-    },
-    {
-      "id": 96,
-      "hexcode": "#964b00"
-    },
-    {
-      "id": 97,
-      "hexcode": "#a52a2a"
-    },
-    {
-      "id": 98,
-      "hexcode": "#ffc1cc"
-    },
-    {
-      "id": 99,
-      "hexcode": "#e7feff"
-    },
-    {
-      "id": 100,
-      "hexcode": "#f0dc82"
-    },
-    {
-      "id": 101,
-      "hexcode": "#480607"
-    },
-    {
-      "id": 102,
-      "hexcode": "#800020"
-    },
-    {
-      "id": 103,
-      "hexcode": "#deb887"
-    },
-    {
-      "id": 104,
-      "hexcode": "#c50"
-    },
-    {
-      "id": 105,
-      "hexcode": "#e97451"
-    },
-    {
-      "id": 106,
-      "hexcode": "#8a3324"
-    },
-    {
-      "id": 107,
-      "hexcode": "#bd33a4"
-    },
-    {
-      "id": 108,
-      "hexcode": "#702963"
-    },
-    {
-      "id": 109,
-      "hexcode": "#536872"
-    },
-    {
-      "id": 110,
-      "hexcode": "#5f9ea0"
-    },
-    {
-      "id": 111,
-      "hexcode": "#91a3b0"
-    },
-    {
-      "id": 112,
-      "hexcode": "#006b3c"
-    },
-    {
-      "id": 113,
-      "hexcode": "#ed872d"
-    },
-    {
-      "id": 114,
-      "hexcode": "#e30022"
-    },
-    {
-      "id": 115,
-      "hexcode": "#fff600"
-    },
-    {
-      "id": 116,
-      "hexcode": "#a67b5b"
-    },
-    {
-      "id": 117,
-      "hexcode": "#4b3621"
-    },
-    {
-      "id": 118,
-      "hexcode": "#1e4d2b"
-    },
-    {
-      "id": 119,
-      "hexcode": "#a3c1ad"
-    },
-    {
-      "id": 120,
-      "hexcode": "#c19a6b"
-    },
-    {
-      "id": 121,
-      "hexcode": "#efbbcc"
-    },
-    {
-      "id": 122,
-      "hexcode": "#78866b"
-    },
-    {
-      "id": 123,
-      "hexcode": "#ffef00"
-    },
-    {
-      "id": 124,
-      "hexcode": "#ff0800"
-    },
-    {
-      "id": 125,
-      "hexcode": "#e4717a"
-    },
-    {
-      "id": 126,
-      "hexcode": "#00bfff"
-    },
-    {
-      "id": 127,
-      "hexcode": "#592720"
-    },
-    {
-      "id": 128,
-      "hexcode": "#c41e3a"
-    },
-    {
-      "id": 129,
-      "hexcode": "#0c9"
-    },
-    {
-      "id": 130,
-      "hexcode": "#960018"
-    },
-    {
-      "id": 131,
-      "hexcode": "#d70040"
-    },
-    {
-      "id": 132,
-      "hexcode": "#eb4c42"
-    },
-    {
-      "id": 133,
-      "hexcode": "#ff0038"
-    },
-    {
-      "id": 134,
-      "hexcode": "#ffa6c9"
-    },
-    {
-      "id": 135,
-      "hexcode": "#b31b1b"
-    },
-    {
-      "id": 136,
-      "hexcode": "#99badd"
-    },
-    {
-      "id": 137,
-      "hexcode": "#ed9121"
-    },
-    {
-      "id": 138,
-      "hexcode": "#062a78"
-    },
-    {
-      "id": 139,
-      "hexcode": "#92a1cf"
-    },
-    {
-      "id": 140,
-      "hexcode": "#ace1af"
-    },
-    {
-      "id": 141,
-      "hexcode": "#007ba7"
-    },
-    {
-      "id": 142,
-      "hexcode": "#2f847c"
-    },
-    {
-      "id": 143,
-      "hexcode": "#b2ffff"
-    },
-    {
-      "id": 144,
-      "hexcode": "#4997d0"
-    },
-    {
-      "id": 145,
-      "hexcode": "#de3163"
-    },
-    {
-      "id": 146,
-      "hexcode": "#ec3b83"
-    },
-    {
-      "id": 147,
-      "hexcode": "#007ba7"
-    },
-    {
-      "id": 148,
-      "hexcode": "#2a52be"
-    },
-    {
-      "id": 149,
-      "hexcode": "#6d9bc3"
-    },
-    {
-      "id": 150,
-      "hexcode": "#007aa5"
-    },
-    {
-      "id": 151,
-      "hexcode": "#e03c31"
-    },
-    {
-      "id": 152,
-      "hexcode": "#a0785a"
-    },
-    {
-      "id": 153,
-      "hexcode": "#fad6a5"
-    },
-    {
-      "id": 154,
-      "hexcode": "#36454f"
-    },
-    {
-      "id": 155,
-      "hexcode": "#e68fac"
-    },
-    {
-      "id": 156,
-      "hexcode": "#dfff00"
-    },
-    {
-      "id": 157,
-      "hexcode": "#7fff00"
-    },
-    {
-      "id": 158,
-      "hexcode": "#de3163"
-    },
-    {
-      "id": 159,
-      "hexcode": "#ffb7c5"
-    },
-    {
-      "id": 160,
-      "hexcode": "#cd5c5c"
-    },
-    {
-      "id": 161,
-      "hexcode": "#de6fa1"
-    },
-    {
-      "id": 162,
-      "hexcode": "#a8516e"
-    },
-    {
-      "id": 163,
-      "hexcode": "#aa381e"
-    },
-    {
-      "id": 164,
-      "hexcode": "#7b3f00"
-    },
-    {
-      "id": 165,
-      "hexcode": "#d2691e"
-    },
-    {
-      "id": 166,
-      "hexcode": "#ffa700"
-    },
-    {
-      "id": 167,
-      "hexcode": "#98817b"
-    },
-    {
-      "id": 168,
-      "hexcode": "#e34234"
-    },
-    {
-      "id": 169,
-      "hexcode": "#d2691e"
-    },
-    {
-      "id": 170,
-      "hexcode": "#e4d00a"
-    },
-    {
-      "id": 171,
-      "hexcode": "#fbcce7"
-    },
-    {
-      "id": 172,
-      "hexcode": "#0047ab"
-    },
-    {
-      "id": 173,
-      "hexcode": "#d2691e"
-    },
-    {
-      "id": 174,
-      "hexcode": "#6f4e37"
-    },
-    {
-      "id": 175,
-      "hexcode": "#9bddff"
-    },
-    {
-      "id": 176,
-      "hexcode": "#f88379"
-    },
-    {
-      "id": 177,
-      "hexcode": "#002e63"
-    },
-    {
-      "id": 178,
-      "hexcode": "#8c92ac"
-    },
-    {
-      "id": 179,
-      "hexcode": "#b87333"
-    },
-    {
-      "id": 180,
-      "hexcode": "#da8a67"
-    },
-    {
-      "id": 181,
-      "hexcode": "#ad6f69"
-    },
-    {
-      "id": 182,
-      "hexcode": "#cb6d51"
-    },
-    {
-      "id": 183,
-      "hexcode": "#966"
-    },
-    {
-      "id": 184,
-      "hexcode": "#ff3800"
-    },
-    {
-      "id": 185,
-      "hexcode": "#ff7f50"
-    },
-    {
-      "id": 186,
-      "hexcode": "#f88379"
-    },
-    {
-      "id": 187,
-      "hexcode": "#ff4040"
-    },
-    {
-      "id": 188,
-      "hexcode": "#893f45"
-    },
-    {
-      "id": 189,
-      "hexcode": "#fbec5d"
-    },
-    {
-      "id": 190,
-      "hexcode": "#b31b1b"
-    },
-    {
-      "id": 191,
-      "hexcode": "#6495ed"
-    },
-    {
-      "id": 192,
-      "hexcode": "#fff8dc"
-    },
-    {
-      "id": 193,
-      "hexcode": "#fff8e7"
-    },
-    {
-      "id": 194,
-      "hexcode": "#ffbcd9"
-    },
-    {
-      "id": 195,
-      "hexcode": "#fffdd0"
-    },
-    {
-      "id": 196,
-      "hexcode": "#dc143c"
-    },
-    {
-      "id": 197,
-      "hexcode": "#be0032"
-    },
-    {
-      "id": 198,
-      "hexcode": "#0ff"
-    },
-    {
-      "id": 199,
-      "hexcode": "#00b7eb"
-    },
-    {
-      "id": 200,
-      "hexcode": "#ffff31"
-    },
-    {
-      "id": 201,
-      "hexcode": "#f0e130"
-    },
-    {
-      "id": 202,
-      "hexcode": "#00008b"
-    },
-    {
-      "id": 203,
-      "hexcode": "#654321"
-    },
-    {
-      "id": 204,
-      "hexcode": "#5d3954"
-    },
-    {
-      "id": 205,
-      "hexcode": "#a40000"
-    },
-    {
-      "id": 206,
-      "hexcode": "#08457e"
-    },
-    {
-      "id": 207,
-      "hexcode": "#986960"
-    },
-    {
-      "id": 208,
-      "hexcode": "#cd5b45"
-    },
-    {
-      "id": 209,
-      "hexcode": "#008b8b"
-    },
-    {
-      "id": 210,
-      "hexcode": "#536878"
-    },
-    {
-      "id": 211,
-      "hexcode": "#b8860b"
-    },
-    {
-      "id": 212,
-      "hexcode": "#a9a9a9"
-    },
-    {
-      "id": 213,
-      "hexcode": "#013220"
-    },
-    {
-      "id": 214,
-      "hexcode": "#00416a"
-    },
-    {
-      "id": 215,
-      "hexcode": "#1a2421"
-    },
-    {
-      "id": 216,
-      "hexcode": "#bdb76b"
-    },
-    {
-      "id": 217,
-      "hexcode": "#483c32"
-    },
-    {
-      "id": 218,
-      "hexcode": "#734f96"
-    },
-    {
-      "id": 219,
-      "hexcode": "#8b008b"
-    },
-    {
-      "id": 220,
-      "hexcode": "#036"
-    },
-    {
-      "id": 221,
-      "hexcode": "#556b2f"
-    },
-    {
-      "id": 222,
-      "hexcode": "#ff8c00"
-    },
-    {
-      "id": 223,
-      "hexcode": "#9932cc"
-    },
-    {
-      "id": 224,
-      "hexcode": "#779ecb"
-    },
-    {
-      "id": 225,
-      "hexcode": "#03c03c"
-    },
-    {
-      "id": 226,
-      "hexcode": "#966fd6"
-    },
-    {
-      "id": 227,
-      "hexcode": "#c23b22"
-    },
-    {
-      "id": 228,
-      "hexcode": "#e75480"
-    },
-    {
-      "id": 229,
-      "hexcode": "#039"
-    },
-    {
-      "id": 230,
-      "hexcode": "#872657"
-    },
-    {
-      "id": 231,
-      "hexcode": "#8b0000"
-    },
-    {
-      "id": 232,
-      "hexcode": "#e9967a"
-    },
-    {
-      "id": 233,
-      "hexcode": "#560319"
-    },
-    {
-      "id": 234,
-      "hexcode": "#8fbc8f"
-    },
-    {
-      "id": 235,
-      "hexcode": "#3c1414"
-    },
-    {
-      "id": 236,
-      "hexcode": "#483d8b"
-    },
-    {
-      "id": 237,
-      "hexcode": "#2f4f4f"
-    },
-    {
-      "id": 238,
-      "hexcode": "#177245"
-    },
-    {
-      "id": 239,
-      "hexcode": "#918151"
-    },
-    {
-      "id": 240,
-      "hexcode": "#ffa812"
-    },
-    {
-      "id": 241,
-      "hexcode": "#483c32"
-    },
-    {
-      "id": 242,
-      "hexcode": "#cc4e5c"
-    },
-    {
-      "id": 243,
-      "hexcode": "#00ced1"
-    },
-    {
-      "id": 244,
-      "hexcode": "#9400d3"
-    },
-    {
-      "id": 245,
-      "hexcode": "#9b870c"
-    },
-    {
-      "id": 246,
-      "hexcode": "#00703c"
-    },
-    {
-      "id": 247,
-      "hexcode": "#555"
-    },
-    {
-      "id": 248,
-      "hexcode": "#d70a53"
-    },
-    {
-      "id": 249,
-      "hexcode": "#a9203e"
-    },
-    {
-      "id": 250,
-      "hexcode": "#ef3038"
-    },
-    {
-      "id": 251,
-      "hexcode": "#e9692c"
-    },
-    {
-      "id": 252,
-      "hexcode": "#da3287"
-    },
-    {
-      "id": 253,
-      "hexcode": "#fad6a5"
-    },
-    {
-      "id": 254,
-      "hexcode": "#b94e48"
-    },
-    {
-      "id": 255,
-      "hexcode": "#704241"
-    },
-    {
-      "id": 256,
-      "hexcode": "#c154c1"
-    },
-    {
-      "id": 257,
-      "hexcode": "#004b49"
-    },
-    {
-      "id": 258,
-      "hexcode": "#95b"
-    },
-    {
-      "id": 259,
-      "hexcode": "#c0c"
-    },
-    {
-      "id": 260,
-      "hexcode": "#ffcba4"
-    },
-    {
-      "id": 261,
-      "hexcode": "#ff1493"
-    },
-    {
-      "id": 262,
-      "hexcode": "#843f5b"
-    },
-    {
-      "id": 263,
-      "hexcode": "#f93"
-    },
-    {
-      "id": 264,
-      "hexcode": "#00bfff"
-    },
-    {
-      "id": 265,
-      "hexcode": "#66424d"
-    },
-    {
-      "id": 266,
-      "hexcode": "#1560bd"
-    },
-    {
-      "id": 267,
-      "hexcode": "#c19a6b"
-    },
-    {
-      "id": 268,
-      "hexcode": "#edc9af"
-    },
-    {
-      "id": 269,
-      "hexcode": "#696969"
-    },
-    {
-      "id": 270,
-      "hexcode": "#1e90ff"
-    },
-    {
-      "id": 271,
-      "hexcode": "#d71868"
-    },
-    {
-      "id": 272,
-      "hexcode": "#85bb65"
-    },
-    {
-      "id": 273,
-      "hexcode": "#967117"
-    },
-    {
-      "id": 274,
-      "hexcode": "#00009c"
-    },
-    {
-      "id": 275,
-      "hexcode": "#e1a95f"
-    },
-    {
-      "id": 276,
-      "hexcode": "#555d50"
-    },
-    {
-      "id": 277,
-      "hexcode": "#c2b280"
-    },
-    {
-      "id": 278,
-      "hexcode": "#614051"
-    },
-    {
-      "id": 279,
-      "hexcode": "#f0ead6"
-    },
-    {
-      "id": 280,
-      "hexcode": "#1034a6"
-    },
-    {
-      "id": 281,
-      "hexcode": "#7df9ff"
-    },
-    {
-      "id": 282,
-      "hexcode": "#ff003f"
-    },
-    {
-      "id": 283,
-      "hexcode": "#0ff"
-    },
-    {
-      "id": 284,
-      "hexcode": "#0f0"
-    },
-    {
-      "id": 285,
-      "hexcode": "#6f00ff"
-    },
-    {
-      "id": 286,
-      "hexcode": "#f4bbff"
-    },
-    {
-      "id": 287,
-      "hexcode": "#cf0"
-    },
-    {
-      "id": 288,
-      "hexcode": "#bf00ff"
-    },
-    {
-      "id": 289,
-      "hexcode": "#3f00ff"
-    },
-    {
-      "id": 290,
-      "hexcode": "#8f00ff"
-    },
-    {
-      "id": 291,
-      "hexcode": "#ff0"
-    },
-    {
-      "id": 292,
-      "hexcode": "#50c878"
-    },
-    {
-      "id": 293,
-      "hexcode": "#b48395"
-    },
-    {
-      "id": 294,
-      "hexcode": "#96c8a2"
-    },
-    {
-      "id": 295,
-      "hexcode": "#c19a6b"
-    },
-    {
-      "id": 296,
-      "hexcode": "#801818"
-    },
-    {
-      "id": 297,
-      "hexcode": "#b53389"
-    },
-    {
-      "id": 298,
-      "hexcode": "#f400a1"
-    },
-    {
-      "id": 299,
-      "hexcode": "#e5aa70"
-    },
-    {
-      "id": 300,
-      "hexcode": "#4d5d53"
-    },
-    {
-      "id": 301,
-      "hexcode": "#4f7942"
-    },
-    {
-      "id": 302,
-      "hexcode": "#ff2800"
-    },
-    {
-      "id": 303,
-      "hexcode": "#6c541e"
-    },
-    {
-      "id": 304,
-      "hexcode": "#ce2029"
-    },
-    {
-      "id": 305,
-      "hexcode": "#b22222"
-    },
-    {
-      "id": 306,
-      "hexcode": "#e25822"
-    },
-    {
-      "id": 307,
-      "hexcode": "#fc8eac"
-    },
-    {
-      "id": 308,
-      "hexcode": "#f7e98e"
-    },
-    {
-      "id": 309,
-      "hexcode": "#eedc82"
-    },
-    {
-      "id": 310,
-      "hexcode": "#fffaf0"
-    },
-    {
-      "id": 311,
-      "hexcode": "#ffbf00"
-    },
-    {
-      "id": 312,
-      "hexcode": "#ff1493"
-    },
-    {
-      "id": 313,
-      "hexcode": "#cf0"
-    },
-    {
-      "id": 314,
-      "hexcode": "#ff004f"
-    },
-    {
-      "id": 315,
-      "hexcode": "#014421"
-    },
-    {
-      "id": 316,
-      "hexcode": "#228b22"
-    },
-    {
-      "id": 317,
-      "hexcode": "#a67b5b"
-    },
-    {
-      "id": 318,
-      "hexcode": "#0072bb"
-    },
-    {
-      "id": 319,
-      "hexcode": "#86608e"
-    },
-    {
-      "id": 320,
-      "hexcode": "#cf0"
-    },
-    {
-      "id": 321,
-      "hexcode": "#c72c48"
-    },
-    {
-      "id": 322,
-      "hexcode": "#f64a8a"
-    },
-    {
-      "id": 323,
-      "hexcode": "#f0f"
-    },
-    {
-      "id": 324,
-      "hexcode": "#c154c1"
-    },
-    {
-      "id": 325,
-      "hexcode": "#f7f"
-    },
-    {
-      "id": 326,
-      "hexcode": "#c74375"
-    },
-    {
-      "id": 327,
-      "hexcode": "#e48400"
-    },
-    {
-      "id": 328,
-      "hexcode": "#c66"
-    },
-    {
-      "id": 329,
-      "hexcode": "#dcdcdc"
-    },
-    {
-      "id": 330,
-      "hexcode": "#e49b0f"
-    },
-    {
-      "id": 331,
-      "hexcode": "#f8f8ff"
-    },
-    {
-      "id": 332,
-      "hexcode": "#b06500"
-    },
-    {
-      "id": 333,
-      "hexcode": "#6082b6"
-    },
-    {
-      "id": 334,
-      "hexcode": "#e6e8fa"
-    },
-    {
-      "id": 335,
-      "hexcode": "#d4af37"
-    },
-    {
-      "id": 336,
-      "hexcode": "#ffd700"
-    },
-    {
-      "id": 337,
-      "hexcode": "#996515"
-    },
-    {
-      "id": 338,
-      "hexcode": "#fcc200"
-    },
-    {
-      "id": 339,
-      "hexcode": "#ffdf00"
-    },
-    {
-      "id": 340,
-      "hexcode": "#daa520"
-    },
-    {
-      "id": 341,
-      "hexcode": "#a8e4a0"
-    },
-    {
-      "id": 342,
-      "hexcode": "#808080"
-    },
-    {
-      "id": 343,
-      "hexcode": "#465945"
-    },
-    {
-      "id": 344,
-      "hexcode": "#808080"
-    },
-    {
-      "id": 345,
-      "hexcode": "#bebebe"
-    },
-    {
-      "id": 346,
-      "hexcode": "#0f0"
-    },
-    {
-      "id": 347,
-      "hexcode": "#1cac78"
-    },
-    {
-      "id": 348,
-      "hexcode": "#008000"
-    },
-    {
-      "id": 349,
-      "hexcode": "#00a877"
-    },
-    {
-      "id": 350,
-      "hexcode": "#009f6b"
-    },
-    {
-      "id": 351,
-      "hexcode": "#00a550"
-    },
-    {
-      "id": 352,
-      "hexcode": "#66b032"
-    },
-    {
-      "id": 353,
-      "hexcode": "#adff2f"
-    },
-    {
-      "id": 354,
-      "hexcode": "#a99a86"
-    },
-    {
-      "id": 355,
-      "hexcode": "#00ff7f"
-    },
-    {
-      "id": 356,
-      "hexcode": "#663854"
-    },
-    {
-      "id": 357,
-      "hexcode": "#446ccf"
-    },
-    {
-      "id": 358,
-      "hexcode": "#5218fa"
-    },
-    {
-      "id": 359,
-      "hexcode": "#e9d66b"
-    },
-    {
-      "id": 360,
-      "hexcode": "#3fff00"
-    },
-    {
-      "id": 361,
-      "hexcode": "#c90016"
-    },
-    {
-      "id": 362,
-      "hexcode": "#da9100"
-    },
-    {
-      "id": 363,
-      "hexcode": "#808000"
-    },
-    {
-      "id": 364,
-      "hexcode": "#df73ff"
-    },
-    {
-      "id": 365,
-      "hexcode": "#f400a1"
-    },
-    {
-      "id": 366,
-      "hexcode": "#f0fff0"
-    },
-    {
-      "id": 367,
-      "hexcode": "#007fbf"
-    },
-    {
-      "id": 368,
-      "hexcode": "#49796b"
-    },
-    {
-      "id": 369,
-      "hexcode": "#ff1dce"
-    },
-    {
-      "id": 370,
-      "hexcode": "#ff69b4"
-    },
-    {
-      "id": 371,
-      "hexcode": "#355e3b"
-    },
-    {
-      "id": 372,
-      "hexcode": "#71a6d2"
-    },
-    {
-      "id": 373,
-      "hexcode": "#fcf75e"
-    },
-    {
-      "id": 374,
-      "hexcode": "#002395"
-    },
-    {
-      "id": 375,
-      "hexcode": "#b2ec5d"
-    },
-    {
-      "id": 376,
-      "hexcode": "#138808"
-    },
-    {
-      "id": 377,
-      "hexcode": "#cd5c5c"
-    },
-    {
-      "id": 378,
-      "hexcode": "#e3a857"
-    },
-    {
-      "id": 379,
-      "hexcode": "#6f00ff"
-    },
-    {
-      "id": 380,
-      "hexcode": "#00416a"
-    },
-    {
-      "id": 381,
-      "hexcode": "#4b0082"
-    },
-    {
-      "id": 382,
-      "hexcode": "#002fa7"
-    },
-    {
-      "id": 383,
-      "hexcode": "#ff4f00"
-    },
-    {
-      "id": 384,
-      "hexcode": "#ba160c"
-    },
-    {
-      "id": 385,
-      "hexcode": "#c0362c"
-    },
-    {
-      "id": 386,
-      "hexcode": "#5a4fcf"
-    },
-    {
-      "id": 387,
-      "hexcode": "#f4f0ec"
-    },
-    {
-      "id": 388,
-      "hexcode": "#009000"
-    },
-    {
-      "id": 389,
-      "hexcode": "#fffff0"
-    },
-    {
-      "id": 390,
-      "hexcode": "#00a86b"
-    },
-    {
-      "id": 391,
-      "hexcode": "#f8de7e"
-    },
-    {
-      "id": 392,
-      "hexcode": "#d73b3e"
-    },
-    {
-      "id": 393,
-      "hexcode": "#a50b5e"
-    },
-    {
-      "id": 394,
-      "hexcode": "#343434"
-    },
-    {
-      "id": 395,
-      "hexcode": "#fada5e"
-    },
-    {
-      "id": 396,
-      "hexcode": "#bdda57"
-    },
-    {
-      "id": 397,
-      "hexcode": "#29ab87"
-    },
-    {
-      "id": 398,
-      "hexcode": "#4cbb17"
-    },
-    {
-      "id": 399,
-      "hexcode": "#7c1c05"
-    },
-    {
-      "id": 400,
-      "hexcode": "#c3b091"
-    },
-    {
-      "id": 401,
-      "hexcode": "#f0e68c"
-    },
-    {
-      "id": 402,
-      "hexcode": "#e8000d"
-    },
-    {
-      "id": 403,
-      "hexcode": "#087830"
-    },
-    {
-      "id": 404,
-      "hexcode": "#d6cadd"
-    },
-    {
-      "id": 405,
-      "hexcode": "#26619c"
-    },
-    {
-      "id": 406,
-      "hexcode": "#fefe22"
-    },
-    {
-      "id": 407,
-      "hexcode": "#a9ba9d"
-    },
-    {
-      "id": 408,
-      "hexcode": "#cf1020"
-    },
-    {
-      "id": 409,
-      "hexcode": "#ccf"
-    },
-    {
-      "id": 410,
-      "hexcode": "#fff0f5"
-    },
-    {
-      "id": 411,
-      "hexcode": "#b57edc"
-    },
-    {
-      "id": 412,
-      "hexcode": "#c4c3d0"
-    },
-    {
-      "id": 413,
-      "hexcode": "#9457eb"
-    },
-    {
-      "id": 414,
-      "hexcode": "#ee82ee"
-    },
-    {
-      "id": 415,
-      "hexcode": "#e6e6fa"
-    },
-    {
-      "id": 416,
-      "hexcode": "#fbaed2"
-    },
-    {
-      "id": 417,
-      "hexcode": "#967bb6"
-    },
-    {
-      "id": 418,
-      "hexcode": "#fba0e3"
-    },
-    {
-      "id": 419,
-      "hexcode": "#e6e6fa"
-    },
-    {
-      "id": 420,
-      "hexcode": "#7cfc00"
-    },
-    {
-      "id": 421,
-      "hexcode": "#fff700"
-    },
-    {
-      "id": 422,
-      "hexcode": "#fffacd"
-    },
-    {
-      "id": 423,
-      "hexcode": "#e3ff00"
-    },
-    {
-      "id": 424,
-      "hexcode": "#1a1110"
-    },
-    {
-      "id": 425,
-      "hexcode": "#fdd5b1"
-    },
-    {
-      "id": 426,
-      "hexcode": "#add8e6"
-    },
-    {
-      "id": 427,
-      "hexcode": "#b5651d"
-    },
-    {
-      "id": 428,
-      "hexcode": "#e66771"
-    },
-    {
-      "id": 429,
-      "hexcode": "#f08080"
-    },
-    {
-      "id": 430,
-      "hexcode": "#93ccea"
-    },
-    {
-      "id": 431,
-      "hexcode": "#f56991"
-    },
-    {
-      "id": 432,
-      "hexcode": "#e0ffff"
-    },
-    {
-      "id": 433,
-      "hexcode": "#f984ef"
-    },
-    {
-      "id": 434,
-      "hexcode": "#fafad2"
-    },
-    {
-      "id": 435,
-      "hexcode": "#d3d3d3"
-    },
-    {
-      "id": 436,
-      "hexcode": "#90ee90"
-    },
-    {
-      "id": 437,
-      "hexcode": "#f0e68c"
-    },
-    {
-      "id": 438,
-      "hexcode": "#b19cd9"
-    },
-    {
-      "id": 439,
-      "hexcode": "#ffb6c1"
-    },
-    {
-      "id": 440,
-      "hexcode": "#e97451"
-    },
-    {
-      "id": 441,
-      "hexcode": "#ffa07a"
-    },
-    {
-      "id": 442,
-      "hexcode": "#f99"
-    },
-    {
-      "id": 443,
-      "hexcode": "#20b2aa"
-    },
-    {
-      "id": 444,
-      "hexcode": "#87cefa"
-    },
-    {
-      "id": 445,
-      "hexcode": "#789"
-    },
-    {
-      "id": 446,
-      "hexcode": "#b38b6d"
-    },
-    {
-      "id": 447,
-      "hexcode": "#e68fac"
-    },
-    {
-      "id": 448,
-      "hexcode": "#ffffe0"
-    },
-    {
-      "id": 449,
-      "hexcode": "#c8a2c8"
-    },
-    {
-      "id": 450,
-      "hexcode": "#bfff00"
-    },
-    {
-      "id": 451,
-      "hexcode": "#32cd32"
-    },
-    {
-      "id": 452,
-      "hexcode": "#0f0"
-    },
-    {
-      "id": 453,
-      "hexcode": "#9dc209"
-    },
-    {
-      "id": 454,
-      "hexcode": "#195905"
-    },
-    {
-      "id": 455,
-      "hexcode": "#faf0e6"
-    },
-    {
-      "id": 456,
-      "hexcode": "#c19a6b"
-    },
-    {
-      "id": 457,
-      "hexcode": "#6ca0dc"
-    },
-    {
-      "id": 458,
-      "hexcode": "#534b4f"
-    },
-    {
-      "id": 459,
-      "hexcode": "#e62020"
-    },
-    {
-      "id": 460,
-      "hexcode": "#f0f"
-    },
-    {
-      "id": 461,
-      "hexcode": "#ca1f7b"
-    },
-    {
-      "id": 462,
-      "hexcode": "#ff0090"
-    },
-    {
-      "id": 463,
-      "hexcode": "#aaf0d1"
-    },
-    {
-      "id": 464,
-      "hexcode": "#f8f4ff"
-    },
-    {
-      "id": 465,
-      "hexcode": "#c04000"
-    },
-    {
-      "id": 466,
-      "hexcode": "#fbec5d"
-    },
-    {
-      "id": 467,
-      "hexcode": "#6050dc"
-    },
-    {
-      "id": 468,
-      "hexcode": "#0bda51"
-    },
-    {
-      "id": 469,
-      "hexcode": "#979aaa"
-    },
-    {
-      "id": 470,
-      "hexcode": "#ff8243"
-    },
-    {
-      "id": 471,
-      "hexcode": "#74c365"
-    },
-    {
-      "id": 472,
-      "hexcode": "#880085"
-    },
-    {
-      "id": 473,
-      "hexcode": "#c32148"
-    },
-    {
-      "id": 474,
-      "hexcode": "#800000"
-    },
-    {
-      "id": 475,
-      "hexcode": "#b03060"
-    },
-    {
-      "id": 476,
-      "hexcode": "#e0b0ff"
-    },
-    {
-      "id": 477,
-      "hexcode": "#915f6d"
-    },
-    {
-      "id": 478,
-      "hexcode": "#ef98aa"
-    },
-    {
-      "id": 479,
-      "hexcode": "#73c2fb"
-    },
-    {
-      "id": 480,
-      "hexcode": "#e5b73b"
-    },
-    {
-      "id": 481,
-      "hexcode": "#6da"
-    },
-    {
-      "id": 482,
-      "hexcode": "#0000cd"
-    },
-    {
-      "id": 483,
-      "hexcode": "#e2062c"
-    },
-    {
-      "id": 484,
-      "hexcode": "#af4035"
-    },
-    {
-      "id": 485,
-      "hexcode": "#f3e5ab"
-    },
-    {
-      "id": 486,
-      "hexcode": "#035096"
-    },
-    {
-      "id": 487,
-      "hexcode": "#1c352d"
-    },
-    {
-      "id": 488,
-      "hexcode": "#dda0dd"
-    },
-    {
-      "id": 489,
-      "hexcode": "#ba55d3"
-    },
-    {
-      "id": 490,
-      "hexcode": "#0067a5"
-    },
-    {
-      "id": 491,
-      "hexcode": "#9370db"
-    },
-    {
-      "id": 492,
-      "hexcode": "#bb3385"
-    },
-    {
-      "id": 493,
-      "hexcode": "#aa4069"
-    },
-    {
-      "id": 494,
-      "hexcode": "#3cb371"
-    },
-    {
-      "id": 495,
-      "hexcode": "#7b68ee"
-    },
-    {
-      "id": 496,
-      "hexcode": "#c9dc87"
-    },
-    {
-      "id": 497,
-      "hexcode": "#00fa9a"
-    },
-    {
-      "id": 498,
-      "hexcode": "#674c47"
-    },
-    {
-      "id": 499,
-      "hexcode": "#48d1cc"
-    },
-    {
-      "id": 500,
-      "hexcode": "#79443b"
-    },
-    {
-      "id": 501,
-      "hexcode": "#d9603b"
-    },
-    {
-      "id": 502,
-      "hexcode": "#c71585"
-    },
-    {
-      "id": 503,
-      "hexcode": "#f8b878"
-    },
-    {
-      "id": 504,
-      "hexcode": "#f8de7e"
-    },
-    {
-      "id": 505,
-      "hexcode": "#fdbcb4"
-    },
-    {
-      "id": 506,
-      "hexcode": "#191970"
-    },
-    {
-      "id": 507,
-      "hexcode": "#004953"
-    },
-    {
-      "id": 508,
-      "hexcode": "#ffc40c"
-    },
-    {
-      "id": 509,
-      "hexcode": "#3eb489"
-    },
-    {
-      "id": 510,
-      "hexcode": "#f5fffa"
-    },
-    {
-      "id": 511,
-      "hexcode": "#98ff98"
-    },
-    {
-      "id": 512,
-      "hexcode": "#ffe4e1"
-    },
-    {
-      "id": 513,
-      "hexcode": "#faebd7"
-    },
-    {
-      "id": 514,
-      "hexcode": "#967117"
-    },
-    {
-      "id": 515,
-      "hexcode": "#73a9c2"
-    },
-    {
-      "id": 516,
-      "hexcode": "#ae0c00"
-    },
-    {
-      "id": 517,
-      "hexcode": "#addfad"
-    },
-    {
-      "id": 518,
-      "hexcode": "#30ba8f"
-    },
-    {
-      "id": 519,
-      "hexcode": "#997a8d"
-    },
-    {
-      "id": 520,
-      "hexcode": "#18453b"
-    },
-    {
-      "id": 521,
-      "hexcode": "#c54b8c"
-    },
-    {
-      "id": 522,
-      "hexcode": "#ffdb58"
-    },
-    {
-      "id": 523,
-      "hexcode": "#21421e"
-    },
-    {
-      "id": 524,
-      "hexcode": "#f6adc6"
-    },
-    {
-      "id": 525,
-      "hexcode": "#2a8000"
-    },
-    {
-      "id": 526,
-      "hexcode": "#fada5e"
-    },
-    {
-      "id": 527,
-      "hexcode": "#ffdead"
-    },
-    {
-      "id": 528,
-      "hexcode": "#000080"
-    },
-    {
-      "id": 529,
-      "hexcode": "#ffa343"
-    },
-    {
-      "id": 530,
-      "hexcode": "#fe4164"
-    },
-    {
-      "id": 531,
-      "hexcode": "#39ff14"
-    },
-    {
-      "id": 532,
-      "hexcode": "#d7837f"
-    },
-    {
-      "id": 533,
-      "hexcode": "#a4dded"
-    },
-    {
-      "id": 534,
-      "hexcode": "#059033"
-    },
-    {
-      "id": 535,
-      "hexcode": "#0077be"
-    },
-    {
-      "id": 536,
-      "hexcode": "#c72"
-    },
-    {
-      "id": 537,
-      "hexcode": "#008000"
-    },
-    {
-      "id": 538,
-      "hexcode": "#cfb53b"
-    },
-    {
-      "id": 539,
-      "hexcode": "#fdf5e6"
-    },
-    {
-      "id": 540,
-      "hexcode": "#796878"
-    },
-    {
-      "id": 541,
-      "hexcode": "#673147"
-    },
-    {
-      "id": 542,
-      "hexcode": "#c08081"
-    },
-    {
-      "id": 543,
-      "hexcode": "#808000"
-    },
-    {
-      "id": 544,
-      "hexcode": "#3c341f"
-    },
-    {
-      "id": 545,
-      "hexcode": "#6b8e23"
-    },
-    {
-      "id": 546,
-      "hexcode": "#9ab973"
-    },
-    {
-      "id": 547,
-      "hexcode": "#353839"
-    },
-    {
-      "id": 548,
-      "hexcode": "#b784a7"
-    },
-    {
-      "id": 549,
-      "hexcode": "#ff7f00"
-    },
-    {
-      "id": 550,
-      "hexcode": "#ff9f00"
-    },
-    {
-      "id": 551,
-      "hexcode": "#ff4500"
-    },
-    {
-      "id": 552,
-      "hexcode": "#fb9902"
-    },
-    {
-      "id": 553,
-      "hexcode": "#ffa500"
-    },
-    {
-      "id": 554,
-      "hexcode": "#da70d6"
-    },
-    {
-      "id": 555,
-      "hexcode": "#654321"
-    },
-    {
-      "id": 556,
-      "hexcode": "#900"
-    },
-    {
-      "id": 557,
-      "hexcode": "#414a4c"
-    },
-    {
-      "id": 558,
-      "hexcode": "#ff6e4a"
-    },
-    {
-      "id": 559,
-      "hexcode": "#002147"
-    },
-    {
-      "id": 560,
-      "hexcode": "#060"
-    },
-    {
-      "id": 561,
-      "hexcode": "#273be2"
-    },
-    {
-      "id": 562,
-      "hexcode": "#682860"
-    },
-    {
-      "id": 563,
-      "hexcode": "#bcd4e6"
-    },
-    {
-      "id": 564,
-      "hexcode": "#afeeee"
-    },
-    {
-      "id": 565,
-      "hexcode": "#987654"
-    },
-    {
-      "id": 566,
-      "hexcode": "#af4035"
-    },
-    {
-      "id": 567,
-      "hexcode": "#9bc4e2"
-    },
-    {
-      "id": 568,
-      "hexcode": "#ddadaf"
-    },
-    {
-      "id": 569,
-      "hexcode": "#da8a67"
-    },
-    {
-      "id": 570,
-      "hexcode": "#abcdef"
-    },
-    {
-      "id": 571,
-      "hexcode": "#e6be8a"
-    },
-    {
-      "id": 572,
-      "hexcode": "#eee8aa"
-    },
-    {
-      "id": 573,
-      "hexcode": "#98fb98"
-    },
-    {
-      "id": 574,
-      "hexcode": "#dcd0ff"
-    },
-    {
-      "id": 575,
-      "hexcode": "#f984e5"
-    },
-    {
-      "id": 576,
-      "hexcode": "#fadadd"
-    },
-    {
-      "id": 577,
-      "hexcode": "#dda0dd"
-    },
-    {
-      "id": 578,
-      "hexcode": "#db7093"
-    },
-    {
-      "id": 579,
-      "hexcode": "#96ded1"
-    },
-    {
-      "id": 580,
-      "hexcode": "#c9c0bb"
-    },
-    {
-      "id": 581,
-      "hexcode": "#ecebbd"
-    },
-    {
-      "id": 582,
-      "hexcode": "#bc987e"
-    },
-    {
-      "id": 583,
-      "hexcode": "#db7093"
-    },
-    {
-      "id": 584,
-      "hexcode": "#78184a"
-    },
-    {
-      "id": 585,
-      "hexcode": "#ffefd5"
-    },
-    {
-      "id": 586,
-      "hexcode": "#50c878"
-    },
-    {
-      "id": 587,
-      "hexcode": "#aec6cf"
-    },
-    {
-      "id": 588,
-      "hexcode": "#836953"
-    },
-    {
-      "id": 589,
-      "hexcode": "#cfcfc4"
-    },
-    {
-      "id": 590,
-      "hexcode": "#7d7"
-    },
-    {
-      "id": 591,
-      "hexcode": "#f49ac2"
-    },
-    {
-      "id": 592,
-      "hexcode": "#ffb347"
-    },
-    {
-      "id": 593,
-      "hexcode": "#dea5a4"
-    },
-    {
-      "id": 594,
-      "hexcode": "#b39eb5"
-    },
-    {
-      "id": 595,
-      "hexcode": "#ff6961"
-    },
-    {
-      "id": 596,
-      "hexcode": "#cb99c9"
-    },
-    {
-      "id": 597,
-      "hexcode": "#fdfd96"
-    },
-    {
-      "id": 598,
-      "hexcode": "#800080"
-    },
-    {
-      "id": 599,
-      "hexcode": "#536878"
-    },
-    {
-      "id": 600,
-      "hexcode": "#ffe5b4"
-    },
-    {
-      "id": 601,
-      "hexcode": "#ffcba4"
-    },
-    {
-      "id": 602,
-      "hexcode": "#fc9"
-    },
-    {
-      "id": 603,
-      "hexcode": "#ffdab9"
-    },
-    {
-      "id": 604,
-      "hexcode": "#fadfad"
-    },
-    {
-      "id": 605,
-      "hexcode": "#d1e231"
-    },
-    {
-      "id": 606,
-      "hexcode": "#eae0c8"
-    },
-    {
-      "id": 607,
-      "hexcode": "#88d8c0"
-    },
-    {
-      "id": 608,
-      "hexcode": "#b768a2"
-    },
-    {
-      "id": 609,
-      "hexcode": "#e6e200"
-    },
-    {
-      "id": 610,
-      "hexcode": "#ccf"
-    },
-    {
-      "id": 611,
-      "hexcode": "#1c39bb"
-    },
-    {
-      "id": 612,
-      "hexcode": "#00a693"
-    },
-    {
-      "id": 613,
-      "hexcode": "#32127a"
-    },
-    {
-      "id": 614,
-      "hexcode": "#d99058"
-    },
-    {
-      "id": 615,
-      "hexcode": "#f77fbe"
-    },
-    {
-      "id": 616,
-      "hexcode": "#701c1c"
-    },
-    {
-      "id": 617,
-      "hexcode": "#c33"
-    },
-    {
-      "id": 618,
-      "hexcode": "#fe28a2"
-    },
-    {
-      "id": 619,
-      "hexcode": "#ec5800"
-    },
-    {
-      "id": 620,
-      "hexcode": "#cd853f"
-    },
-    {
-      "id": 621,
-      "hexcode": "#df00ff"
-    },
-    {
-      "id": 622,
-      "hexcode": "#000f89"
-    },
-    {
-      "id": 623,
-      "hexcode": "#123524"
-    },
-    {
-      "id": 624,
-      "hexcode": "#fddde6"
-    },
-    {
-      "id": 625,
-      "hexcode": "#01796f"
-    },
-    {
-      "id": 626,
-      "hexcode": "#ffc0cb"
-    },
-    {
-      "id": 627,
-      "hexcode": "#ffddf4"
-    },
-    {
-      "id": 628,
-      "hexcode": "#f96"
-    },
-    {
-      "id": 629,
-      "hexcode": "#e7accf"
-    },
-    {
-      "id": 630,
-      "hexcode": "#f78fa7"
-    },
-    {
-      "id": 631,
-      "hexcode": "#93c572"
-    },
-    {
-      "id": 632,
-      "hexcode": "#e5e4e2"
-    },
-    {
-      "id": 633,
-      "hexcode": "#8e4585"
-    },
-    {
-      "id": 634,
-      "hexcode": "#dda0dd"
-    },
-    {
-      "id": 635,
-      "hexcode": "#ff5a36"
-    },
-    {
-      "id": 636,
-      "hexcode": "#b0e0e6"
-    },
-    {
-      "id": 637,
-      "hexcode": "#ff8f00"
-    },
-    {
-      "id": 638,
-      "hexcode": "#701c1c"
-    },
-    {
-      "id": 639,
-      "hexcode": "#003153"
-    },
-    {
-      "id": 640,
-      "hexcode": "#df00ff"
-    },
-    {
-      "id": 641,
-      "hexcode": "#c89"
-    },
-    {
-      "id": 642,
-      "hexcode": "#ff7518"
-    },
-    {
-      "id": 643,
-      "hexcode": "#69359c"
-    },
-    {
-      "id": 644,
-      "hexcode": "#800080"
-    },
-    {
-      "id": 645,
-      "hexcode": "#9678b6"
-    },
-    {
-      "id": 646,
-      "hexcode": "#9f00c5"
-    },
-    {
-      "id": 647,
-      "hexcode": "#fe4eda"
-    },
-    {
-      "id": 648,
-      "hexcode": "#50404d"
-    },
-    {
-      "id": 649,
-      "hexcode": "#a020f0"
-    },
-    {
-      "id": 650,
-      "hexcode": "#51484f"
-    },
-    {
-      "id": 651,
-      "hexcode": "#5d8aa8"
-    },
-    {
-      "id": 652,
-      "hexcode": "#ff355e"
-    },
-    {
-      "id": 653,
-      "hexcode": "#fbab60"
-    },
-    {
-      "id": 654,
-      "hexcode": "#e30b5d"
-    },
-    {
-      "id": 655,
-      "hexcode": "#915f6d"
-    },
-    {
-      "id": 656,
-      "hexcode": "#e25098"
-    },
-    {
-      "id": 657,
-      "hexcode": "#b3446c"
-    },
-    {
-      "id": 658,
-      "hexcode": "#826644"
-    },
-    {
-      "id": 659,
-      "hexcode": "#f3c"
-    },
-    {
-      "id": 660,
-      "hexcode": "#e3256b"
-    },
-    {
-      "id": 661,
-      "hexcode": "#f00"
-    },
-    {
-      "id": 662,
-      "hexcode": "#a52a2a"
-    },
-    {
-      "id": 663,
-      "hexcode": "#860111"
-    },
-    {
-      "id": 664,
-      "hexcode": "#f2003c"
-    },
-    {
-      "id": 665,
-      "hexcode": "#c40233"
-    },
-    {
-      "id": 666,
-      "hexcode": "#ff5349"
-    },
-    {
-      "id": 667,
-      "hexcode": "#ed1c24"
-    },
-    {
-      "id": 668,
-      "hexcode": "#fe2712"
-    },
-    {
-      "id": 669,
-      "hexcode": "#c71585"
-    },
-    {
-      "id": 670,
-      "hexcode": "#ab4e52"
-    },
-    {
-      "id": 671,
-      "hexcode": "#522d80"
-    },
-    {
-      "id": 672,
-      "hexcode": "#002387"
-    },
-    {
-      "id": 673,
-      "hexcode": "#004040"
-    },
-    {
-      "id": 674,
-      "hexcode": "#f1a7fe"
-    },
-    {
-      "id": 675,
-      "hexcode": "#d70040"
-    },
-    {
-      "id": 676,
-      "hexcode": "#0892d0"
-    },
-    {
-      "id": 677,
-      "hexcode": "#a76bcf"
-    },
-    {
-      "id": 678,
-      "hexcode": "#b666d2"
-    },
-    {
-      "id": 679,
-      "hexcode": "#b03060"
-    },
-    {
-      "id": 680,
-      "hexcode": "#414833"
-    },
-    {
-      "id": 681,
-      "hexcode": "#0cc"
-    },
-    {
-      "id": 682,
-      "hexcode": "#ff007f"
-    },
-    {
-      "id": 683,
-      "hexcode": "#f9429e"
-    },
-    {
-      "id": 684,
-      "hexcode": "#674846"
-    },
-    {
-      "id": 685,
-      "hexcode": "#b76e79"
-    },
-    {
-      "id": 686,
-      "hexcode": "#e32636"
-    },
-    {
-      "id": 687,
-      "hexcode": "#f6c"
-    },
-    {
-      "id": 688,
-      "hexcode": "#aa98a9"
-    },
-    {
-      "id": 689,
-      "hexcode": "#905d5d"
-    },
-    {
-      "id": 690,
-      "hexcode": "#ab4e52"
-    },
-    {
-      "id": 691,
-      "hexcode": "#65000b"
-    },
-    {
-      "id": 692,
-      "hexcode": "#d40000"
-    },
-    {
-      "id": 693,
-      "hexcode": "#bc8f8f"
-    },
-    {
-      "id": 694,
-      "hexcode": "#0038a8"
-    },
-    {
-      "id": 695,
-      "hexcode": "#002366"
-    },
-    {
-      "id": 696,
-      "hexcode": "#4169e1"
-    },
-    {
-      "id": 697,
-      "hexcode": "#ca2c92"
-    },
-    {
-      "id": 698,
-      "hexcode": "#7851a9"
-    },
-    {
-      "id": 699,
-      "hexcode": "#fada5e"
-    },
-    {
-      "id": 700,
-      "hexcode": "#d10056"
-    },
-    {
-      "id": 701,
-      "hexcode": "#e0115f"
-    },
-    {
-      "id": 702,
-      "hexcode": "#9b111e"
-    },
-    {
-      "id": 703,
-      "hexcode": "#ff0028"
-    },
-    {
-      "id": 704,
-      "hexcode": "#bb6528"
-    },
-    {
-      "id": 705,
-      "hexcode": "#e18e96"
-    },
-    {
-      "id": 706,
-      "hexcode": "#a81c07"
-    },
-    {
-      "id": 707,
-      "hexcode": "#80461b"
-    },
-    {
-      "id": 708,
-      "hexcode": "#b7410e"
-    },
-    {
-      "id": 709,
-      "hexcode": "#da2c43"
-    },
-    {
-      "id": 710,
-      "hexcode": "#00563f"
-    },
-    {
-      "id": 711,
-      "hexcode": "#8b4513"
-    },
-    {
-      "id": 712,
-      "hexcode": "#ff6700"
-    },
-    {
-      "id": 713,
-      "hexcode": "#f4c430"
-    },
-    {
-      "id": 714,
-      "hexcode": "#ff8c69"
-    },
-    {
-      "id": 715,
-      "hexcode": "#ff91a4"
-    },
-    {
-      "id": 716,
-      "hexcode": "#c2b280"
-    },
-    {
-      "id": 717,
-      "hexcode": "#967117"
-    },
-    {
-      "id": 718,
-      "hexcode": "#ecd540"
-    },
-    {
-      "id": 719,
-      "hexcode": "#f4a460"
-    },
-    {
-      "id": 720,
-      "hexcode": "#967117"
-    },
-    {
-      "id": 721,
-      "hexcode": "#92000a"
-    },
-    {
-      "id": 722,
-      "hexcode": "#507d2a"
-    },
-    {
-      "id": 723,
-      "hexcode": "#0f52ba"
-    },
-    {
-      "id": 724,
-      "hexcode": "#0067a5"
-    },
-    {
-      "id": 725,
-      "hexcode": "#cba135"
-    },
-    {
-      "id": 726,
-      "hexcode": "#ff2400"
-    },
-    {
-      "id": 727,
-      "hexcode": "#fd0e35"
-    },
-    {
-      "id": 728,
-      "hexcode": "#ffd800"
-    },
-    {
-      "id": 729,
-      "hexcode": "#76ff7a"
-    },
-    {
-      "id": 730,
-      "hexcode": "#006994"
-    },
-    {
-      "id": 731,
-      "hexcode": "#2e8b57"
-    },
-    {
-      "id": 732,
-      "hexcode": "#321414"
-    },
-    {
-      "id": 733,
-      "hexcode": "#fff5ee"
-    },
-    {
-      "id": 734,
-      "hexcode": "#ffba00"
-    },
-    {
-      "id": 735,
-      "hexcode": "#704214"
-    },
-    {
-      "id": 736,
-      "hexcode": "#8a795d"
-    },
-    {
-      "id": 737,
-      "hexcode": "#009e60"
-    },
-    {
-      "id": 738,
-      "hexcode": "#fc0fc0"
-    },
-    {
-      "id": 739,
-      "hexcode": "#ff6fff"
-    },
-    {
-      "id": 740,
-      "hexcode": "#882d17"
-    },
-    {
-      "id": 741,
-      "hexcode": "#c0c0c0"
-    },
-    {
-      "id": 742,
-      "hexcode": "#cb410b"
-    },
-    {
-      "id": 743,
-      "hexcode": "#007474"
-    },
-    {
-      "id": 744,
-      "hexcode": "#87ceeb"
-    },
-    {
-      "id": 745,
-      "hexcode": "#cf71af"
-    },
-    {
-      "id": 746,
-      "hexcode": "#6a5acd"
-    },
-    {
-      "id": 747,
-      "hexcode": "#708090"
-    },
-    {
-      "id": 748,
-      "hexcode": "#039"
-    },
-    {
-      "id": 749,
-      "hexcode": "#933d41"
-    },
-    {
-      "id": 750,
-      "hexcode": "#100c08"
-    },
-    {
-      "id": 751,
-      "hexcode": "#fffafa"
-    },
-    {
-      "id": 752,
-      "hexcode": "#0fc0fc"
-    },
-    {
-      "id": 753,
-      "hexcode": "#a7fc00"
-    },
-    {
-      "id": 754,
-      "hexcode": "#00ff7f"
-    },
-    {
-      "id": 755,
-      "hexcode": "#23297a"
-    },
-    {
-      "id": 756,
-      "hexcode": "#4682b4"
-    },
-    {
-      "id": 757,
-      "hexcode": "#fada5e"
-    },
-    {
-      "id": 758,
-      "hexcode": "#900"
-    },
-    {
-      "id": 759,
-      "hexcode": "#4f666a"
-    },
-    {
-      "id": 760,
-      "hexcode": "#e4d96f"
-    },
-    {
-      "id": 761,
-      "hexcode": "#fc3"
-    },
-    {
-      "id": 762,
-      "hexcode": "#fad6a5"
-    },
-    {
-      "id": 763,
-      "hexcode": "#d2b48c"
-    },
-    {
-      "id": 764,
-      "hexcode": "#f94d00"
-    },
-    {
-      "id": 765,
-      "hexcode": "#f28500"
-    },
-    {
-      "id": 766,
-      "hexcode": "#fc0"
-    },
-    {
-      "id": 767,
-      "hexcode": "#e4717a"
-    },
-    {
-      "id": 768,
-      "hexcode": "#483c32"
-    },
-    {
-      "id": 769,
-      "hexcode": "#8b8589"
-    },
-    {
-      "id": 770,
-      "hexcode": "#d0f0c0"
-    },
-    {
-      "id": 771,
-      "hexcode": "#f88379"
-    },
-    {
-      "id": 772,
-      "hexcode": "#f4c2c2"
-    },
-    {
-      "id": 773,
-      "hexcode": "#008080"
-    },
-    {
-      "id": 774,
-      "hexcode": "#367588"
-    },
-    {
-      "id": 775,
-      "hexcode": "#00827f"
-    },
-    {
-      "id": 776,
-      "hexcode": "#cf3476"
-    },
-    {
-      "id": 777,
-      "hexcode": "#cd5700"
-    },
-    {
-      "id": 778,
-      "hexcode": "#e2725b"
-    },
-    {
-      "id": 779,
-      "hexcode": "#d8bfd8"
-    },
-    {
-      "id": 780,
-      "hexcode": "#de6fa1"
-    },
-    {
-      "id": 781,
-      "hexcode": "#fc89ac"
-    },
-    {
-      "id": 782,
-      "hexcode": "#0abab5"
-    },
-    {
-      "id": 783,
-      "hexcode": "#e08d3c"
-    },
-    {
-      "id": 784,
-      "hexcode": "#dbd7d2"
-    },
-    {
-      "id": 785,
-      "hexcode": "#eee600"
-    },
-    {
-      "id": 786,
-      "hexcode": "#ff6347"
-    },
-    {
-      "id": 787,
-      "hexcode": "#746cc0"
-    },
-    {
-      "id": 788,
-      "hexcode": "#ffc87c"
-    },
-    {
-      "id": 789,
-      "hexcode": "#fd0e35"
-    },
-    {
-      "id": 790,
-      "hexcode": "#808080"
-    },
-    {
-      "id": 791,
-      "hexcode": "#00755e"
-    },
-    {
-      "id": 792,
-      "hexcode": "#0073cf"
-    },
-    {
-      "id": 793,
-      "hexcode": "#417dc1"
-    },
-    {
-      "id": 794,
-      "hexcode": "#deaa88"
-    },
-    {
-      "id": 795,
-      "hexcode": "#b57281"
-    },
-    {
-      "id": 796,
-      "hexcode": "#30d5c8"
-    },
-    {
-      "id": 797,
-      "hexcode": "#00ffef"
-    },
-    {
-      "id": 798,
-      "hexcode": "#a0d6b4"
-    },
-    {
-      "id": 799,
-      "hexcode": "#7c4848"
-    },
-    {
-      "id": 800,
-      "hexcode": "#8a496b"
-    },
-    {
-      "id": 801,
-      "hexcode": "#66023c"
-    },
-    {
-      "id": 802,
-      "hexcode": "#03a"
-    },
-    {
-      "id": 803,
-      "hexcode": "#d9004c"
-    },
-    {
-      "id": 804,
-      "hexcode": "#8878c3"
-    },
-    {
-      "id": 805,
-      "hexcode": "#536895"
-    },
-    {
-      "id": 806,
-      "hexcode": "#ffb300"
-    },
-    {
-      "id": 807,
-      "hexcode": "#3cd070"
-    },
-    {
-      "id": 808,
-      "hexcode": "#ff6fff"
-    },
-    {
-      "id": 809,
-      "hexcode": "#120a8f"
-    },
-    {
-      "id": 810,
-      "hexcode": "#4166f5"
-    },
-    {
-      "id": 811,
-      "hexcode": "#635147"
-    },
-    {
-      "id": 812,
-      "hexcode": "#ffddca"
-    },
-    {
-      "id": 813,
-      "hexcode": "#5b92e5"
-    },
-    {
-      "id": 814,
-      "hexcode": "#b78727"
-    },
-    {
-      "id": 815,
-      "hexcode": "#ff6"
-    },
-    {
-      "id": 816,
-      "hexcode": "#014421"
-    },
-    {
-      "id": 817,
-      "hexcode": "#7b1113"
-    },
-    {
-      "id": 818,
-      "hexcode": "#ae2029"
-    },
-    {
-      "id": 819,
-      "hexcode": "#e1ad21"
-    },
-    {
-      "id": 820,
-      "hexcode": "#004f98"
-    },
-    {
-      "id": 821,
-      "hexcode": "#900"
-    },
-    {
-      "id": 822,
-      "hexcode": "#fc0"
-    },
-    {
-      "id": 823,
-      "hexcode": "#d3003f"
-    },
-    {
-      "id": 824,
-      "hexcode": "#f3e5ab"
-    },
-    {
-      "id": 825,
-      "hexcode": "#c5b358"
-    },
-    {
-      "id": 826,
-      "hexcode": "#c80815"
-    },
-    {
-      "id": 827,
-      "hexcode": "#43b3ae"
-    },
-    {
-      "id": 828,
-      "hexcode": "#e34234"
-    },
-    {
-      "id": 829,
-      "hexcode": "#d9603b"
-    },
-    {
-      "id": 830,
-      "hexcode": "#a020f0"
-    },
-    {
-      "id": 831,
-      "hexcode": "#8f00ff"
-    },
-    {
-      "id": 832,
-      "hexcode": "#324ab2"
-    },
-    {
-      "id": 833,
-      "hexcode": "#7f00ff"
-    },
-    {
-      "id": 834,
-      "hexcode": "#8601af"
-    },
-    {
-      "id": 835,
-      "hexcode": "#ee82ee"
-    },
-    {
-      "id": 836,
-      "hexcode": "#40826d"
-    },
-    {
-      "id": 837,
-      "hexcode": "#922724"
-    },
-    {
-      "id": 838,
-      "hexcode": "#9f1d35"
-    },
-    {
-      "id": 839,
-      "hexcode": "#da1d81"
-    },
-    {
-      "id": 840,
-      "hexcode": "#ffa089"
-    },
-    {
-      "id": 841,
-      "hexcode": "#9f00ff"
-    },
-    {
-      "id": 842,
-      "hexcode": "#004242"
-    },
-    {
-      "id": 843,
-      "hexcode": "#a4f4f9"
-    },
-    {
-      "id": 844,
-      "hexcode": "#645452"
-    },
-    {
-      "id": 845,
-      "hexcode": "#f5deb3"
-    },
-    {
-      "id": 846,
-      "hexcode": "#fff"
-    },
-    {
-      "id": 847,
-      "hexcode": "#f5f5f5"
-    },
-    {
-      "id": 848,
-      "hexcode": "#a2add0"
-    },
-    {
-      "id": 849,
-      "hexcode": "#ff43a4"
-    },
-    {
-      "id": 850,
-      "hexcode": "#fc6c85"
-    },
-    {
-      "id": 851,
-      "hexcode": "#722f37"
-    },
-    {
-      "id": 852,
-      "hexcode": "#673147"
-    },
-    {
-      "id": 853,
-      "hexcode": "#c9a0dc"
-    },
-    {
-      "id": 854,
-      "hexcode": "#c19a6b"
-    },
-    {
-      "id": 855,
-      "hexcode": "#738678"
-    },
-    {
-      "id": 856,
-      "hexcode": "#0f4d92"
-    },
-    {
-      "id": 857,
-      "hexcode": "#ff0"
-    },
-    {
-      "id": 858,
-      "hexcode": "#9acd32"
-    },
-    {
-      "id": 859,
-      "hexcode": "#efcc00"
-    },
-    {
-      "id": 860,
-      "hexcode": "#ffd300"
-    },
-    {
-      "id": 861,
-      "hexcode": "#ffae42"
-    },
-    {
-      "id": 862,
-      "hexcode": "#ffef00"
-    },
-    {
-      "id": 863,
-      "hexcode": "#fefe33"
-    },
-    {
-      "id": 864,
-      "hexcode": "#0014a8"
-    },
-    {
-      "id": 865,
-      "hexcode": "#2c1608"
+        "hex": "#EFDECD", 
+        "name": "Almond", 
+        "rgb": "(239, 222, 205)"
+    }, 
+    {
+        "hex": "#CD9575", 
+        "name": "Antique Brass", 
+        "rgb": "(205, 149, 117)"
+    }, 
+    {
+        "hex": "#FDD9B5", 
+        "name": "Apricot", 
+        "rgb": "(253, 217, 181)"
+    }, 
+    {
+        "hex": "#78DBE2", 
+        "name": "Aquamarine", 
+        "rgb": "(120, 219, 226)"
+    }, 
+    {
+        "hex": "#87A96B", 
+        "name": "Asparagus", 
+        "rgb": "(135, 169, 107)"
+    }, 
+    {
+        "hex": "#FFA474", 
+        "name": "Atomic Tangerine", 
+        "rgb": "(255, 164, 116)"
+    }, 
+    {
+        "hex": "#FAE7B5", 
+        "name": "Banana Mania", 
+        "rgb": "(250, 231, 181)"
+    }, 
+    {
+        "hex": "#9F8170", 
+        "name": "Beaver", 
+        "rgb": "(159, 129, 112)"
+    }, 
+    {
+        "hex": "#FD7C6E", 
+        "name": "Bittersweet", 
+        "rgb": "(253, 124, 110)"
+    }, 
+    {
+        "hex": "#000000", 
+        "name": "Black", 
+        "rgb": "(0,0,0)"
+    }, 
+    {
+        "hex": "#ACE5EE", 
+        "name": "Blizzard Blue", 
+        "rgb": "(172, 229, 238)"
+    }, 
+    {
+        "hex": "#1F75FE", 
+        "name": "Blue", 
+        "rgb": "(31, 117, 254)"
+    }, 
+    {
+        "hex": "#A2A2D0", 
+        "name": "Blue Bell", 
+        "rgb": "(162, 162, 208)"
+    }, 
+    {
+        "hex": "#6699CC", 
+        "name": "Blue Gray", 
+        "rgb": "(102, 153, 204)"
+    }, 
+    {
+        "hex": "#0D98BA", 
+        "name": "Blue Green", 
+        "rgb": "(13, 152, 186)"
+    }, 
+    {
+        "hex": "#7366BD", 
+        "name": "Blue Violet", 
+        "rgb": "(115, 102, 189)"
+    }, 
+    {
+        "hex": "#DE5D83", 
+        "name": "Blush", 
+        "rgb": "(222, 93, 131)"
+    }, 
+    {
+        "hex": "#CB4154", 
+        "name": "Brick Red", 
+        "rgb": "(203, 65, 84)"
+    }, 
+    {
+        "hex": "#B4674D", 
+        "name": "Brown", 
+        "rgb": "(180, 103, 77)"
+    }, 
+    {
+        "hex": "#FF7F49", 
+        "name": "Burnt Orange", 
+        "rgb": "(255, 127, 73)"
+    }, 
+    {
+        "hex": "#EA7E5D", 
+        "name": "Burnt Sienna", 
+        "rgb": "(234, 126, 93)"
+    }, 
+    {
+        "hex": "#B0B7C6", 
+        "name": "Cadet Blue", 
+        "rgb": "(176, 183, 198)"
+    }, 
+    {
+        "hex": "#FFFF99", 
+        "name": "Canary", 
+        "rgb": "(255, 255, 153)"
+    }, 
+    {
+        "hex": "#1CD3A2", 
+        "name": "Caribbean Green", 
+        "rgb": "(28, 211, 162)"
+    }, 
+    {
+        "hex": "#FFAACC", 
+        "name": "Carnation Pink", 
+        "rgb": "(255, 170, 204)"
+    }, 
+    {
+        "hex": "#DD4492", 
+        "name": "Cerise", 
+        "rgb": "(221, 68, 146)"
+    }, 
+    {
+        "hex": "#1DACD6", 
+        "name": "Cerulean", 
+        "rgb": "(29, 172, 214)"
+    }, 
+    {
+        "hex": "#BC5D58", 
+        "name": "Chestnut", 
+        "rgb": "(188, 93, 88)"
+    }, 
+    {
+        "hex": "#DD9475", 
+        "name": "Copper", 
+        "rgb": "(221, 148, 117)"
+    }, 
+    {
+        "hex": "#9ACEEB", 
+        "name": "Cornflower", 
+        "rgb": "(154, 206, 235)"
+    }, 
+    {
+        "hex": "#FFBCD9", 
+        "name": "Cotton Candy", 
+        "rgb": "(255, 188, 217)"
+    }, 
+    {
+        "hex": "#FDDB6D", 
+        "name": "Dandelion", 
+        "rgb": "(253, 219, 109)"
+    }, 
+    {
+        "hex": "#2B6CC4", 
+        "name": "Denim", 
+        "rgb": "(43, 108, 196)"
+    }, 
+    {
+        "hex": "#EFCDB8", 
+        "name": "Desert Sand", 
+        "rgb": "(239, 205, 184)"
+    }, 
+    {
+        "hex": "#6E5160", 
+        "name": "Eggplant", 
+        "rgb": "(110, 81, 96)"
+    }, 
+    {
+        "hex": "#CEFF1D", 
+        "name": "Electric Lime", 
+        "rgb": "(206, 255, 29)"
+    }, 
+    {
+        "hex": "#71BC78", 
+        "name": "Fern", 
+        "rgb": "(113, 188, 120)"
+    }, 
+    {
+        "hex": "#6DAE81", 
+        "name": "Forest Green", 
+        "rgb": "(109, 174, 129)"
+    }, 
+    {
+        "hex": "#C364C5", 
+        "name": "Fuchsia", 
+        "rgb": "(195, 100, 197)"
+    }, 
+    {
+        "hex": "#CC6666", 
+        "name": "Fuzzy Wuzzy", 
+        "rgb": "(204, 102, 102)"
+    }, 
+    {
+        "hex": "#E7C697", 
+        "name": "Gold", 
+        "rgb": "(231, 198, 151)"
+    }, 
+    {
+        "hex": "#FCD975", 
+        "name": "Goldenrod", 
+        "rgb": "(252, 217, 117)"
+    }, 
+    {
+        "hex": "#A8E4A0", 
+        "name": "Granny Smith Apple", 
+        "rgb": "(168, 228, 160)"
+    }, 
+    {
+        "hex": "#95918C", 
+        "name": "Gray", 
+        "rgb": "(149, 145, 140)"
+    }, 
+    {
+        "hex": "#1CAC78", 
+        "name": "Green", 
+        "rgb": "(28, 172, 120)"
+    }, 
+    {
+        "hex": "#1164B4", 
+        "name": "Green Blue", 
+        "rgb": "(17, 100, 180)"
+    }, 
+    {
+        "hex": "#F0E891", 
+        "name": "Green Yellow", 
+        "rgb": "(240, 232, 145)"
+    }, 
+    {
+        "hex": "#FF1DCE", 
+        "name": "Hot Magenta", 
+        "rgb": "(255, 29, 206)"
+    }, 
+    {
+        "hex": "#B2EC5D", 
+        "name": "Inchworm", 
+        "rgb": "(178, 236, 93)"
+    }, 
+    {
+        "hex": "#5D76CB", 
+        "name": "Indigo", 
+        "rgb": "(93, 118, 203)"
+    }, 
+    {
+        "hex": "#CA3767", 
+        "name": "Jazzberry Jam", 
+        "rgb": "(202, 55, 103)"
+    }, 
+    {
+        "hex": "#3BB08F", 
+        "name": "Jungle Green", 
+        "rgb": "(59, 176, 143)"
+    }, 
+    {
+        "hex": "#FEFE22", 
+        "name": "Laser Lemon", 
+        "rgb": "(254, 254, 34)"
+    }, 
+    {
+        "hex": "#FCB4D5", 
+        "name": "Lavender", 
+        "rgb": "(252, 180, 213)"
+    }, 
+    {
+        "hex": "#FFF44F", 
+        "name": "Lemon Yellow", 
+        "rgb": "(255, 244, 79)"
+    }, 
+    {
+        "hex": "#FFBD88", 
+        "name": "Macaroni and Cheese", 
+        "rgb": "(255, 189, 136)"
+    }, 
+    {
+        "hex": "#F664AF", 
+        "name": "Magenta", 
+        "rgb": "(246, 100, 175)"
+    }, 
+    {
+        "hex": "#AAF0D1", 
+        "name": "Magic Mint", 
+        "rgb": "(170, 240, 209)"
+    }, 
+    {
+        "hex": "#CD4A4C", 
+        "name": "Mahogany", 
+        "rgb": "(205, 74, 76)"
+    }, 
+    {
+        "hex": "#EDD19C", 
+        "name": "Maize", 
+        "rgb": "(237, 209, 156)"
+    }, 
+    {
+        "hex": "#979AAA", 
+        "name": "Manatee", 
+        "rgb": "(151, 154, 170)"
+    }, 
+    {
+        "hex": "#FF8243", 
+        "name": "Mango Tango", 
+        "rgb": "(255, 130, 67)"
+    }, 
+    {
+        "hex": "#C8385A", 
+        "name": "Maroon", 
+        "rgb": "(200, 56, 90)"
+    }, 
+    {
+        "hex": "#EF98AA", 
+        "name": "Mauvelous", 
+        "rgb": "(239, 152, 170)"
+    }, 
+    {
+        "hex": "#FDBCB4", 
+        "name": "Melon", 
+        "rgb": "(253, 188, 180)"
+    }, 
+    {
+        "hex": "#1A4876", 
+        "name": "Midnight Blue", 
+        "rgb": "(26, 72, 118)"
+    }, 
+    {
+        "hex": "#30BA8F", 
+        "name": "Mountain Meadow", 
+        "rgb": "(48, 186, 143)"
+    }, 
+    {
+        "hex": "#C54B8C", 
+        "name": "Mulberry", 
+        "rgb": "(197, 75, 140)"
+    }, 
+    {
+        "hex": "#1974D2", 
+        "name": "Navy Blue", 
+        "rgb": "(25, 116, 210)"
+    }, 
+    {
+        "hex": "#FFA343", 
+        "name": "Neon Carrot", 
+        "rgb": "(255, 163, 67)"
+    }, 
+    {
+        "hex": "#BAB86C", 
+        "name": "Olive Green", 
+        "rgb": "(186, 184, 108)"
+    }, 
+    {
+        "hex": "#FF7538", 
+        "name": "Orange", 
+        "rgb": "(255, 117, 56)"
+    }, 
+    {
+        "hex": "#FF2B2B", 
+        "name": "Orange Red", 
+        "rgb": "(255, 43, 43)"
+    }, 
+    {
+        "hex": "#F8D568", 
+        "name": "Orange Yellow", 
+        "rgb": "(248, 213, 104)"
+    }, 
+    {
+        "hex": "#E6A8D7", 
+        "name": "Orchid", 
+        "rgb": "(230, 168, 215)"
+    }, 
+    {
+        "hex": "#414A4C", 
+        "name": "Outer Space", 
+        "rgb": "(65, 74, 76)"
+    }, 
+    {
+        "hex": "#FF6E4A", 
+        "name": "Outrageous Orange", 
+        "rgb": "(255, 110, 74)"
+    }, 
+    {
+        "hex": "#1CA9C9", 
+        "name": "Pacific Blue", 
+        "rgb": "(28, 169, 201)"
+    }, 
+    {
+        "hex": "#FFCFAB", 
+        "name": "Peach", 
+        "rgb": "(255, 207, 171)"
+    }, 
+    {
+        "hex": "#C5D0E6", 
+        "name": "Periwinkle", 
+        "rgb": "(197, 208, 230)"
+    }, 
+    {
+        "hex": "#FDDDE6", 
+        "name": "Piggy Pink", 
+        "rgb": "(253, 221, 230)"
+    }, 
+    {
+        "hex": "#158078", 
+        "name": "Pine Green", 
+        "rgb": "(21, 128, 120)"
+    }, 
+    {
+        "hex": "#FC74FD", 
+        "name": "Pink Flamingo", 
+        "rgb": "(252, 116, 253)"
+    }, 
+    {
+        "hex": "#F78FA7", 
+        "name": "Pink Sherbet", 
+        "rgb": "(247, 143, 167)"
+    }, 
+    {
+        "hex": "#8E4585", 
+        "name": "Plum", 
+        "rgb": "(142, 69, 133)"
+    }, 
+    {
+        "hex": "#7442C8", 
+        "name": "Purple Heart", 
+        "rgb": "(116, 66, 200)"
+    }, 
+    {
+        "hex": "#9D81BA", 
+        "name": "Purple Mountain's Majesty", 
+        "rgb": "(157, 129, 186)"
+    }, 
+    {
+        "hex": "#FE4EDA", 
+        "name": "Purple Pizzazz", 
+        "rgb": "(254, 78, 218)"
+    }, 
+    {
+        "hex": "#FF496C", 
+        "name": "Radical Red", 
+        "rgb": "(255, 73, 108)"
+    }, 
+    {
+        "hex": "#D68A59", 
+        "name": "Raw Sienna", 
+        "rgb": "(214, 138, 89)"
+    }, 
+    {
+        "hex": "#714B23", 
+        "name": "Raw Umber", 
+        "rgb": "(113, 75, 35)"
+    }, 
+    {
+        "hex": "#FF48D0", 
+        "name": "Razzle Dazzle Rose", 
+        "rgb": "(255, 72, 208)"
+    }, 
+    {
+        "hex": "#E3256B", 
+        "name": "Razzmatazz", 
+        "rgb": "(227, 37, 107)"
+    }, 
+    {
+        "hex": "#EE204D", 
+        "name": "Red", 
+        "rgb": "(238,32 ,77 )"
+    }, 
+    {
+        "hex": "#FF5349", 
+        "name": "Red Orange", 
+        "rgb": "(255, 83, 73)"
+    }, 
+    {
+        "hex": "#C0448F", 
+        "name": "Red Violet", 
+        "rgb": "(192, 68, 143)"
+    }, 
+    {
+        "hex": "#1FCECB", 
+        "name": "Robin's Egg Blue", 
+        "rgb": "(31, 206, 203)"
+    }, 
+    {
+        "hex": "#7851A9", 
+        "name": "Royal Purple", 
+        "rgb": "(120, 81, 169)"
+    }, 
+    {
+        "hex": "#FF9BAA", 
+        "name": "Salmon", 
+        "rgb": "(255, 155, 170)"
+    }, 
+    {
+        "hex": "#FC2847", 
+        "name": "Scarlet", 
+        "rgb": "(252, 40, 71)"
+    }, 
+    {
+        "hex": "#76FF7A", 
+        "name": "Screamin' Green", 
+        "rgb": "(118, 255, 122)"
+    }, 
+    {
+        "hex": "#9FE2BF", 
+        "name": "Sea Green", 
+        "rgb": "(159, 226, 191)"
+    }, 
+    {
+        "hex": "#A5694F", 
+        "name": "Sepia", 
+        "rgb": "(165, 105, 79)"
+    }, 
+    {
+        "hex": "#8A795D", 
+        "name": "Shadow", 
+        "rgb": "(138, 121, 93)"
+    }, 
+    {
+        "hex": "#45CEA2", 
+        "name": "Shamrock", 
+        "rgb": "(69, 206, 162)"
+    }, 
+    {
+        "hex": "#FB7EFD", 
+        "name": "Shocking Pink", 
+        "rgb": "(251, 126, 253)"
+    }, 
+    {
+        "hex": "#CDC5C2", 
+        "name": "Silver", 
+        "rgb": "(205, 197, 194)"
+    }, 
+    {
+        "hex": "#80DAEB", 
+        "name": "Sky Blue", 
+        "rgb": "(128, 218, 235)"
+    }, 
+    {
+        "hex": "#ECEABE", 
+        "name": "Spring Green", 
+        "rgb": "(236, 234, 190)"
+    }, 
+    {
+        "hex": "#FFCF48", 
+        "name": "Sunglow", 
+        "rgb": "(255, 207, 72)"
+    }, 
+    {
+        "hex": "#FD5E53", 
+        "name": "Sunset Orange", 
+        "rgb": "(253, 94, 83)"
+    }, 
+    {
+        "hex": "#FAA76C", 
+        "name": "Tan", 
+        "rgb": "(250, 167, 108)"
+    }, 
+    {
+        "hex": "#18A7B5", 
+        "name": "Teal Blue", 
+        "rgb": "(24, 167, 181)"
+    }, 
+    {
+        "hex": "#EBC7DF", 
+        "name": "Thistle", 
+        "rgb": "(235, 199, 223)"
+    }, 
+    {
+        "hex": "#FC89AC", 
+        "name": "Tickle Me Pink", 
+        "rgb": "(252, 137, 172)"
+    }, 
+    {
+        "hex": "#DBD7D2", 
+        "name": "Timberwolf", 
+        "rgb": "(219, 215, 210)"
+    }, 
+    {
+        "hex": "#17806D", 
+        "name": "Tropical Rain Forest", 
+        "rgb": "(23, 128, 109)"
+    }, 
+    {
+        "hex": "#DEAA88", 
+        "name": "Tumbleweed", 
+        "rgb": "(222, 170, 136)"
+    }, 
+    {
+        "hex": "#77DDE7", 
+        "name": "Turquoise Blue", 
+        "rgb": "(119, 221, 231)"
+    }, 
+    {
+        "hex": "#FFFF66", 
+        "name": "Unmellow Yellow", 
+        "rgb": "(255, 255, 102)"
+    }, 
+    {
+        "hex": "#926EAE", 
+        "name": "Violet (Purple)", 
+        "rgb": "(146, 110, 174)"
+    }, 
+    {
+        "hex": "#324AB2", 
+        "name": "Violet Blue", 
+        "rgb": "(50, 74, 178)"
+    }, 
+    {
+        "hex": "#F75394", 
+        "name": "Violet Red", 
+        "rgb": "(247, 83, 148)"
+    }, 
+    {
+        "hex": "#FFA089", 
+        "name": "Vivid Tangerine", 
+        "rgb": "(255, 160, 137)"
+    }, 
+    {
+        "hex": "#8F509D", 
+        "name": "Vivid Violet", 
+        "rgb": "(143, 80, 157)"
+    }, 
+    {
+        "hex": "#FFFFFF", 
+        "name": "White", 
+        "rgb": "(255, 255, 255)"
+    }, 
+    {
+        "hex": "#A2ADD0", 
+        "name": "Wild Blue Yonder", 
+        "rgb": "(162, 173, 208)"
+    }, 
+    {
+        "hex": "#FF43A4", 
+        "name": "Wild Strawberry", 
+        "rgb": "(255, 67, 164)"
+    }, 
+    {
+        "hex": "#FC6C85", 
+        "name": "Wild Watermelon", 
+        "rgb": "(252, 108, 133)"
+    }, 
+    {
+        "hex": "#CDA4DE", 
+        "name": "Wisteria", 
+        "rgb": "(205, 164, 222)"
+    }, 
+    {
+        "hex": "#FCE883", 
+        "name": "Yellow", 
+        "rgb": "(252, 232, 131)"
+    }, 
+    {
+        "hex": "#C5E384", 
+        "name": "Yellow Green", 
+        "rgb": "(197, 227, 132)"
+    }, 
+    {
+        "hex": "#FFAE42", 
+        "name": "Yellow Orange", 
+        "rgb": "(255, 174, 66)"
     }
-  ]
+]

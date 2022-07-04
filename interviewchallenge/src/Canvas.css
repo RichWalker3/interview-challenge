@@ -60,7 +60,7 @@
 
 .detailLargeSwatchTitleBar {
     position: relative;
-    top: 380px;
+    top: 388px;
     height: 110px;
     background-color: #fdfdfd;
     box-shadow: 0px 0px 5px lightgrey;
@@ -71,10 +71,9 @@
 
 .detailLargeSwatchTitle {
     position: relative;
-    font-size: 18px;
     top: 40px;
     left: 29px;
-    font-size: 2.5em
+    font-size: 2em
 }
 
 .detailSwatchRow {
@@ -99,10 +98,10 @@
     position: relative;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
-    top: 75px;
+    top: 79px;
     height:45px;
     box-shadow: 0px 0px 3px lightgray;
-    font-size: 20px;
+    font-size: 1em;
 }
 
 .detailSwatchTitle{

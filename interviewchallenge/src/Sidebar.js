@@ -1,5 +1,6 @@
+import colors from './colors.json'
 
-function Sidebar() {
+function Sidebar(props) {
   const randomButtonStyle ={
     height:'42px',
     width:'175px',
@@ -19,9 +20,16 @@ function Sidebar() {
 
   const sbListItemStyle = {fontSize: '20px'}
 
+  const handleRandomClick = () => {
+    const randomIndex = Math.floor(Math.random() * colors.length)
+    console.log('random: ', randomIndex)
+    props.setDetailedIndex(randomIndex)
+    props.setView('canvasDetailed')
+  }
+
   return (
       <div className="sideBar">
-        <button type="button" className="randomButton" style={randomButtonStyle}><strong>Random Color</strong></button>
+        <button type="button" className="randomButton" style={randomButtonStyle} onClick={()=>handleRandomClick()}><strong>Random Color</strong></button>
         <div className="sideBarList" style={sideBarListStyle}>
             <a href="#Red" className ='sbText' style={sbListItemStyle}>Red</a>
             <a href="#Orange" className ='sbText' style={sbListItemStyle}>Orange</a>
