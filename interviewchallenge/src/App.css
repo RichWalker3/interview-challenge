@@ -4,7 +4,7 @@
 }
 
 .App-header {
-  position:fixed;
+  position: fixed;
   background-color: #363c3c;
   height: 66px;
   width: 100%;
@@ -17,17 +17,13 @@
   color: white;
   box-shadow: -10px 0px 10px black;
   z-index: 10;
-  /* border: 1px solid red;     */
 }
-
 
 .header {
   position: absolute;
   width: 100%;
   min-width: 100px;
   max-width: 1045px;
-  /* border: 1px solid green;     */
-
 }
 
 .sideBar {

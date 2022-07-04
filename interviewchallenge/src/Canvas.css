@@ -1,3 +1,4 @@
+/* Grid View */
 .canvasGrid {
     display: grid;
     grid-template-columns: 165px 165px 165px 165px;
@@ -40,14 +41,13 @@
         font-size: 18px;
 }
 
+/* Detailed View */
 .detailedView {
 
     width: 780px;
     height:780px;
 }
 
-/*  */
-/*  */
 .detailLargeSwatch {
     height: 530px;
     width: 780px;
