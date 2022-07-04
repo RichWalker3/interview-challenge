@@ -15,7 +15,7 @@ function App() {
       <header className="App-header">
         <HeaderComp />
       </header>
-        <Sidebar view={view} setView={setView} detailedIndex={detailedIndex} setDetailedIndex={setDetailedIndex}/>
+      <Sidebar view={view} setView={setView} detailedIndex={detailedIndex} setDetailedIndex={setDetailedIndex}/>
       <Canvas view={view} setView={setView} detailedIndex={detailedIndex} setDetailedIndex={setDetailedIndex}/>
     </div>
   );

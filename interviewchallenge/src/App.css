@@ -17,7 +17,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  box-shadow: 0px 0px 10px black;
+  box-shadow: -10px 0px 10px black;
+  z-index: 10;
   /* border: 1px solid red;     */
 }
 
@@ -32,10 +33,9 @@
 }
 
 .sideBar {
-  height: 810px;
+  height: 100%;
   width: 235px;
   position: absolute;
-  z-index:-1;
   top: 66px;
   left: 0;
   background-color: #d6d8d8;

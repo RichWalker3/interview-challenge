@@ -22,7 +22,7 @@ function DetailedView(props) {
     
     for (let i = 1; i < 6; i += 1) {
         const idx = (props.colorIndex > colors.length - 7) ? colors.length - 7 + i  : props.colorIndex + i
-        detailSwatches.push(<Swatch swatchNum={{i}} view={props.view} swatchColorIndex={idx} color={colors[idx]['hex']} setDetailedIndex={props.setDetailedIndex} key={i}/>)
+        detailSwatches.push(<Swatch swatchNum={{i}} view={props.view} setView={props.setView} swatchColorIndex={idx} color={colors[idx]['hex']} setDetailedIndex={props.setDetailedIndex} key={i}/>)
     }
 
     return (

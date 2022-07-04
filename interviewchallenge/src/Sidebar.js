@@ -29,7 +29,9 @@ function Sidebar(props) {
 
   return (
       <div className="sideBar">
-        <button type="button" className="randomButton" style={randomButtonStyle} onClick={()=>handleRandomClick()}><strong>Random Color</strong></button>
+        <div className='randomButtonWrapper'>
+          <button type="button" className="randomButton" style={randomButtonStyle} onClick={()=>handleRandomClick()}><strong>Random Color</strong></button>
+        </div>
         <div className="sideBarList" style={sideBarListStyle}>
             <a href="#Red" className ='sbText' style={sbListItemStyle}>Red</a>
             <a href="#Orange" className ='sbText' style={sbListItemStyle}>Orange</a>
