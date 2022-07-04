@@ -22,7 +22,6 @@ function Canvas(props) {
 
   if (props.view === 'canvasGrid') {
     //Swatches
-    let loopStart = (page <= 3) ? 0 : -3
     for (let i = colorIndex; i < colorIndex + 12; i += 1) {
       
       swatches.push(<Swatch color={colors[i].hex} swatchColorIndex={i} setView={props.setView} view={props.view} setDetailedIndex={props.setDetailedIndex} key={i}/>)
